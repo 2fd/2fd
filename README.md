@@ -1,3 +1,3 @@
-![i@2fd.me](./2fd.svg)
+![i@2fd.me](./goat.svg)
 
 > by [&commat;palkone](https://twitter.com/palkone)
